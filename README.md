@@ -3,6 +3,15 @@ The Application is deployed on netlify. It can be accessed on ->  https://travel
 API used in this application are - RapidAPI (Open Weather Map and Travel Advisor API) and GCP API and Services (Google MAps API - Places API and 
 Maps JavaScript API)
 
+
+# Web-Nav-GCP
+First, I made a VM - windows server.
+
+Installed IIS in it
+
+Put all the following files inside "WWWRoot" directory
+
+Used the external IP of VM to access the website.
 ![Travel Advisor App - Google Chrome 06-01-2023 14_41_34 (2)](https://user-images.githubusercontent.com/77982430/210969771-63b019d6-16f6-46b0-afcf-52511d4413fa.png)
 
 
