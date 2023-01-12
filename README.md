@@ -12,6 +12,8 @@ Installed IIS in it
 Put all the following files inside "WWWRoot" directory
 
 Used the external IP of VM to access the website.
+### 'Website hosted on googl cloud'
+http://34.93.65.15/
 ![Travel Advisor App - Google Chrome 06-01-2023 14_41_34 (2)](https://user-images.githubusercontent.com/77982430/210969771-63b019d6-16f6-46b0-afcf-52511d4413fa.png)
 
 
