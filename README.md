@@ -1,8 +1,9 @@
 # Google Cloud Project
 
-1. Two VMs lauched : Debian and windows
+1. Two VMs lauched : Debian and Windows
 2. A travel website hosted on GCP
 3. A travel advisor app built using React JS using GOOGLE APIs
+
 
 
 
