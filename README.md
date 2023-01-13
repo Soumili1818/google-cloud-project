@@ -1,13 +1,15 @@
 # Google Cloud Project
 
 1. Two VMs lauched : Debian and windows
+2. A travel website hosted on GCP
+
 This project is a react based application " Travel Advisor" made with react, javascript, html, css.
 The Application is deployed on netlify. It can be accessed on ->  https://travelwithkartikay.netlify.app/
 API used in this application are - RapidAPI (Open Weather Map and Travel Advisor API) and GCP API and Services (Google MAps API - Places API and 
 Maps JavaScript API)
 
 
-# Web-Nav-GCP
+## Web-Nav-GCP
 First, I made a VM - windows server.
 
 Installed IIS in it
