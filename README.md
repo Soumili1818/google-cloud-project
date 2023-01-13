@@ -2,6 +2,9 @@
 
 1. Two VMs lauched : Debian and windows
 2. A travel website hosted on GCP
+3. A travel advisor app built using React JS using GOOGLE APIs
+
+
 
 This project is a react based application " Travel Advisor" made with react, javascript, html, css.
 The Application is deployed on netlify. It can be accessed on ->  https://travelwithkartikay.netlify.app/
